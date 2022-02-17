@@ -18,6 +18,7 @@ public class RunnableInit {
         @Override
         public void run() {
             System.out.println("Runnable Thread start...");
+            System.out.println("process");
         }
     }
 }
