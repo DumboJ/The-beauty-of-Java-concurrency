@@ -19,7 +19,7 @@ public class RunnableInit {
         public void run() {
             System.out.println("Runnable Thread start...");
             System.out.println("process");
-            System.out.println("jenkins");
+            System.out.println("婊子爱财妞爱俏");
         }
     }
 }
