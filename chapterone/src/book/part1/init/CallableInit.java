@@ -1,4 +1,4 @@
-package part1.init;
+package book.part1.init;
 
 import java.util.concurrent.Callable;
 

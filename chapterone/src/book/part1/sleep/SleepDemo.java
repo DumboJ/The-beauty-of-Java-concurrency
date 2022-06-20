@@ -1,4 +1,4 @@
-package part1.sleep;
+package book.part1.sleep;
 
 import java.util.concurrent.locks.ReentrantLock;
 

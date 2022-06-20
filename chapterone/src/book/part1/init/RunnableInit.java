@@ -1,4 +1,4 @@
-package part1.init;
+package book.part1.init;
 /**
  * 实现Runnable接口开启多线程
  * 执行同样代码需初始化不同对象start()

@@ -1,4 +1,4 @@
-package part1.init;
+package book.part1.init;
 /**
  * 继承 Thread接口开启线程
  * run()中获取当前线程不需要使用Thread.currentThread()，this可获取
