@@ -1,4 +1,4 @@
-package lagou_currency.thread_safe;
+package lagou_currency.lock;
 
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
